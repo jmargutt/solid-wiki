@@ -1,6 +1,6 @@
 # margu-wiki: an LLM-Wiki for Policy & Guidelines 
 
-Semi-random, AI-generated notes.
+AI-generated notes from a conversation with Claude.
 
 ## 1. Concept & scope
 
