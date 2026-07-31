@@ -1,4 +1,4 @@
-# margu-wiki: an LLM-Wiki for Policy & Guidelines 
+# solid-wiki: an LLM-Wiki for Policy & Guidelines 
 
 AI-generated notes from a conversation with Claude.
 
